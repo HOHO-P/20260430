@@ -1,0 +1,6 @@
+{
+  "name": "互動教學工具平台",
+  "description": "整合隨機抽籤、小組競賽計分、倒數計時器與數位隨堂測驗的教學輔助工具平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Real-time Clock", "Countdown Timer", "Dark Mode Support"]
+}
