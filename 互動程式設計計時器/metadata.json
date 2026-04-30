@@ -1,0 +1,6 @@
+{
+  "name": "互動程式設計計時器",
+  "description": "提供考試時間顯示、倒數計時以及考試資訊管理的互動式工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Real-time Clock", "Countdown Timer", "Dark Mode Support"]
+}
